@@ -1,0 +1,6 @@
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\bin\Debug\CokeMachine.exe.config
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\bin\Debug\CokeMachine.exe
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\bin\Debug\CokeMachine.pdb
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\obj\Debug\CokeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\obj\Debug\CokeMachine.exe
+C:\Users\Jamaxack\Desktop\StatePattern\CokeMachine\obj\Debug\CokeMachine.pdb
